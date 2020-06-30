@@ -1,2 +1,3 @@
-# lut
-Created with CodeSandbox
+# Vanilla
+
+JavaScript example starter project.
