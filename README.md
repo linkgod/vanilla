@@ -14,5 +14,8 @@ You will also see any lint errors in the console.
 
 ### npm run build
 
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
+Builds src to the `dist/` folder.
+
+## License
+
+Licensed under [MIT](./LICENSE)
